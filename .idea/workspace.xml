@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8796829-9c5f-452c-bfc3-53fea7ed131e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Foundation/lcsProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Foundation/FileWriterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Foundation/FileWriterDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,38 +25,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Foundation/FileWriterDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="165">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Foundation/fileReaderDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Foundation/lcsProblem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,10 +69,10 @@
         <option value="$PROJECT_DIR$/src/Foundation/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/StudentManagement/studentManagement.java" />
         <option value="$PROJECT_DIR$/src/Foundation/FileWriter.java" />
-        <option value="$PROJECT_DIR$/src/Foundation/FileWriterDemo.java" />
         <option value="$PROJECT_DIR$/src/Foundation/FileReader.java" />
         <option value="$PROJECT_DIR$/src/Foundation/fileReaderDemo.java" />
         <option value="$PROJECT_DIR$/src/Foundation/lcsProblem.java" />
+        <option value="$PROJECT_DIR$/src/Foundation/FileWriterDemo.java" />
       </list>
     </option>
   </component>
@@ -261,18 +235,18 @@
       <workItem from="1559110499665" duration="5735000" />
       <workItem from="1559127989098" duration="10544000" />
       <workItem from="1559564607059" duration="102000" />
-      <workItem from="1561950307035" duration="54000" />
+      <workItem from="1561950307035" duration="608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16435000" />
+    <option name="totallyTimeSpent" value="16989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21367522" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21367522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -383,26 +357,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Foundation/FileWriterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Foundation/fileReaderDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Foundation/a.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -413,6 +367,26 @@
           <folding>
             <element signature="e#221#222#0" expanded="true" />
             <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Foundation/fileReaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Foundation/FileWriterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
